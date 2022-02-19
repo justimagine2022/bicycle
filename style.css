@@ -3,6 +3,7 @@
 body {
   margin: 0;
   color: #383e45;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1, h2, h3, p, ul {
@@ -84,12 +85,16 @@ header a:hover {
    margin-top: 12px;
    text-align: left;
    font-size: 16px;
-   padding-left: 38px;
+   padding-left: 8px;
  }
 
  .about p {
    margin-top: 12px;
    font-size: 14px;
+ }
+
+ .about ul {
+   margin: 0 auto;
  }
 
  .bicycle ul {
